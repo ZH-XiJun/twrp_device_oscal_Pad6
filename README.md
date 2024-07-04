@@ -1,4 +1,4 @@
-# Android device tree for OSCAL Pad 6 (Pad6)
+# OFRP device tree for OSCAL Pad 6 (Pad6)
 
 > [!Caution]
 > This is a SPRD device, that means you need to sign the image through 
